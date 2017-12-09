@@ -10,7 +10,7 @@
     "cover": "markcook.png"
   },
   "motto.md": {
-    "title": "Motto",
+    "title": "Motto111",
     "tags": [
       "javascript",
       "vue",
@@ -19,6 +19,15 @@
     "date": "2016-08-05",
     "desc": "Show your motto in an amazing way!",
     "cover": "motto.png"
+  },
+  "myfirst.md": {
+    "title": "myFirs",
+    "tags": [
+      "javascript"
+    ],
+    "date": "2017-12-09",
+    "desc": "this is my firs article",
+    "cover": "first.png"
   },
   "scion.md": {
     "title": "Scion",
